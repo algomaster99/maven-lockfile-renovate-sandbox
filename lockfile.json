@@ -1,0 +1,84 @@
+{
+  "artifactId": "sandbox",
+  "groupId": "com.example",
+  "version": "1",
+  "pom": {
+    "groupId": "com.example",
+    "artifactId": "sandbox",
+    "version": "1",
+    "relativePath": "pom.xml",
+    "checksumAlgorithm": "SHA-256",
+    "checksum": "5ffe798f14a3a0f152116419427e37c457acca6e01dac77434f6385f969c0f17"
+  },
+  "lockFileVersion": 1,
+  "dependencies": [
+    {
+      "groupId": "org.apache.commons",
+      "artifactId": "commons-lang3",
+      "version": "3.12.0",
+      "checksumAlgorithm": "SHA-256",
+      "checksum": "d919d904486c037f8d193412da0c92e22a9fa24230b9d67a57855c5c31c7e94e",
+      "scope": "compile",
+      "resolved": "https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar",
+      "repositoryId": "central",
+      "parentPom": {
+        "groupId": "org.apache.commons",
+        "artifactId": "commons-parent",
+        "version": "52",
+        "resolved": "https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/52/commons-parent-52.pom",
+        "repositoryId": "central",
+        "checksumAlgorithm": "SHA-256",
+        "checksum": "75dbe8f34e98e4c3ff42daae4a2f9eb4cbcd3b5f1047d54460ace906dbb4502e",
+        "parent": {
+          "groupId": "org.apache",
+          "artifactId": "apache",
+          "version": "23",
+          "resolved": "https://repo.maven.apache.org/maven2/org/apache/apache/23/apache-23.pom",
+          "repositoryId": "central",
+          "checksumAlgorithm": "SHA-256",
+          "checksum": "bc10624e0623f36577fac5639ca2936d3240ed152fb6d8d533ab4d270543491c"
+        }
+      },
+      "selectedVersion": "3.12.0",
+      "included": true,
+      "id": "org.apache.commons:commons-lang3:3.12.0",
+      "children": [],
+      "boms": [
+        {
+          "groupId": "org.junit",
+          "artifactId": "junit-bom",
+          "version": "5.7.1",
+          "resolved": "https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.7.1/junit-bom-5.7.1.pom",
+          "repositoryId": "central",
+          "checksumAlgorithm": "SHA-256",
+          "checksum": "0b9b14a3d62106fafe8c68a717b87b87ad18685899451b753c04fa41b6857784"
+        }
+      ]
+    }
+  ],
+  "mavenPlugins": [],
+  "mavenExtensions": [],
+  "metaData": {
+    "config": {
+      "includeMavenPlugins": false,
+      "allowValidationFailure": false,
+      "allowPomValidationFailure": false,
+      "allowMavenPluginValidationFailure": false,
+      "allowEnvironmentalValidationFailure": false,
+      "includeEnvironment": false,
+      "reduced": false,
+      "mavenLockfileVersion": "5.18.8",
+      "mavenLockfileChecksum": "bed74b51c1a9f7ba58a867e417255ab1317998433e674509ce5f2bc824bcd545",
+      "checksumMode": "remote",
+      "checksumAlgorithm": "SHA-256",
+      "includeBoms": true,
+      "allowBomValidationFailure": false,
+      "includeParentPom": true,
+      "allowParentPomValidationFailure": false,
+      "includeMavenExtensions": true,
+      "allowMavenExtensionsValidationFailure": false,
+      "hermetic": false
+    }
+  },
+  "boms": []
+}
