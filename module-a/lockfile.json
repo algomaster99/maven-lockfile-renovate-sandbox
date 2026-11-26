@@ -8,7 +8,7 @@
     "version": "1",
     "relativePath": "pom.xml",
     "checksumAlgorithm": "SHA-256",
-    "checksum": "09884bcb8611bed41757058de8813457183994bd21769abf5d543532c3a4f451",
+    "checksum": "94084906e69f6f384a0df7f34158edfdcb887f5ae5e9eebd132f51ba5b52deea",
     "parent": {
       "groupId": "com.example",
       "artifactId": "sandbox",
@@ -23,15 +23,15 @@
     {
       "groupId": "org.apache.commons",
       "artifactId": "commons-lang3",
-      "version": "3.18.0",
+      "version": "3.22.0",
       "checksumAlgorithm": "SHA-256",
-      "checksum": "4eeeae8d20c078abb64b015ec158add383ac581571cddc45c68f0c9ae0230720",
+      "checksum": "2ea88052c8662bf51874f4159467ba24b040b22dfd54d2596e11936896c76192",
       "scope": "compile",
-      "resolved": "https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.18.0/commons-lang3-3.18.0.jar",
+      "resolved": "https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.22.0/commons-lang3-3.22.0.jar",
       "repositoryId": "central",
-      "selectedVersion": "3.18.0",
+      "selectedVersion": "3.22.0",
       "included": true,
-      "id": "org.apache.commons:commons-lang3:3.18.0",
+      "id": "org.apache.commons:commons-lang3:3.22.0",
       "children": [],
       "boms": []
     }
