@@ -1,0 +1,69 @@
+{
+  "artifactId": "module-a",
+  "groupId": "com.example",
+  "version": "1",
+  "pom": {
+    "groupId": "com.example",
+    "artifactId": "module-a",
+    "version": "1",
+    "relativePath": "pom.xml",
+    "checksumAlgorithm": "SHA-256",
+    "checksum": "09884bcb8611bed41757058de8813457183994bd21769abf5d543532c3a4f451",
+    "parent": {
+      "groupId": "com.example",
+      "artifactId": "sandbox",
+      "version": "1",
+      "relativePath": "../pom.xml",
+      "checksumAlgorithm": "SHA-256",
+      "checksum": "d0864043ce277f336e397fab25e86346c09065af24413c67959306b621e4e476"
+    }
+  },
+  "lockFileVersion": 1,
+  "dependencies": [
+    {
+      "groupId": "org.apache.commons",
+      "artifactId": "commons-lang3",
+      "version": "3.18.0",
+      "checksumAlgorithm": "SHA-256",
+      "checksum": "4eeeae8d20c078abb64b015ec158add383ac581571cddc45c68f0c9ae0230720",
+      "scope": "compile",
+      "resolved": "https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.18.0/commons-lang3-3.18.0.jar",
+      "repositoryId": "central",
+      "selectedVersion": "3.18.0",
+      "included": true,
+      "id": "org.apache.commons:commons-lang3:3.18.0",
+      "children": [],
+      "boms": []
+    }
+  ],
+  "mavenPlugins": [],
+  "mavenExtensions": [],
+  "metaData": {
+    "environment": {
+      "osName": "Linux",
+      "mavenVersion": "3.9.14",
+      "javaVersion": "25.0.2"
+    },
+    "config": {
+      "includeMavenPlugins": false,
+      "allowValidationFailure": false,
+      "allowPomValidationFailure": false,
+      "allowMavenPluginValidationFailure": false,
+      "allowEnvironmentalValidationFailure": false,
+      "includeEnvironment": true,
+      "reduced": false,
+      "mavenLockfileVersion": "5.18.8",
+      "mavenLockfileChecksum": "bed74b51c1a9f7ba58a867e417255ab1317998433e674509ce5f2bc824bcd545",
+      "checksumMode": "remote",
+      "checksumAlgorithm": "SHA-256",
+      "includeBoms": false,
+      "allowBomValidationFailure": false,
+      "includeParentPom": false,
+      "allowParentPomValidationFailure": false,
+      "includeMavenExtensions": false,
+      "allowMavenExtensionsValidationFailure": false,
+      "hermetic": false
+    }
+  },
+  "boms": []
+}
