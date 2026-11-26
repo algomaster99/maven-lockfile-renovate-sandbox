@@ -2,6 +2,14 @@
   "artifactId": "sandbox",
   "groupId": "com.example",
   "version": "1",
+  "pom": {
+    "groupId": "com.example",
+    "artifactId": "sandbox",
+    "version": "1",
+    "relativePath": "pom.xml",
+    "checksumAlgorithm": "SHA-256",
+    "checksum": "ba1a7719408b6fce232f6d5f6803013d9e5b1185c969dd711574bc074b21a275"
+  },
   "lockFileVersion": 1,
   "dependencies": [
     {
@@ -11,22 +19,38 @@
       "checksumAlgorithm": "SHA-256",
       "checksum": "a2af247ec4db6eb8947e18e23e0433e4871a7c5d0a40e1f92e46ede54ae1defe",
       "scope": "compile",
+      "resolved": "https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.21.0/commons-lang3-3.21.0.jar",
+      "repositoryId": "central",
       "selectedVersion": "3.21.0",
       "included": true,
       "id": "org.apache.commons:commons-lang3:3.21.0",
-      "children": []
+      "children": [],
+      "boms": []
     }
   ],
   "mavenPlugins": [],
+  "mavenExtensions": [],
   "metaData": {
     "config": {
       "includeMavenPlugins": false,
       "allowValidationFailure": false,
+      "allowPomValidationFailure": false,
+      "allowMavenPluginValidationFailure": false,
+      "allowEnvironmentalValidationFailure": false,
       "includeEnvironment": false,
       "reduced": false,
-      "mavenLockfileVersion": "5.3.0",
-      "checksumMode": "maven_local",
-      "checksumAlgorithm": "SHA-256"
+      "mavenLockfileVersion": "5.18.8",
+      "mavenLockfileChecksum": "bed74b51c1a9f7ba58a867e417255ab1317998433e674509ce5f2bc824bcd545",
+      "checksumMode": "remote",
+      "checksumAlgorithm": "SHA-256",
+      "includeBoms": false,
+      "allowBomValidationFailure": false,
+      "includeParentPom": false,
+      "allowParentPomValidationFailure": false,
+      "includeMavenExtensions": false,
+      "allowMavenExtensionsValidationFailure": false,
+      "hermetic": false
     }
-  }
+  },
+  "boms": []
 }
