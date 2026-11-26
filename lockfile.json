@@ -8,7 +8,7 @@
     "version": "1",
     "relativePath": "pom.xml",
     "checksumAlgorithm": "SHA-256",
-    "checksum": "d0864043ce277f336e397fab25e86346c09065af24413c67959306b621e4e476"
+    "checksum": "a0e0a4569861b2063bbdbbebaef2571c82714904744b467f734feb8b95cf165d"
   },
   "lockFileVersion": 1,
   "dependencies": [],
@@ -23,8 +23,8 @@
       "allowEnvironmentalValidationFailure": false,
       "includeEnvironment": false,
       "reduced": false,
-      "mavenLockfileVersion": "5.18.8",
-      "mavenLockfileChecksum": "bed74b51c1a9f7ba58a867e417255ab1317998433e674509ce5f2bc824bcd545",
+      "mavenLockfileVersion": "5.19.0",
+      "mavenLockfileChecksum": "d94ac829c1df215e9285c9954d34b987fbba63b678cc3696be82277c1d9c9729",
       "checksumMode": "remote",
       "checksumAlgorithm": "SHA-256",
       "includeBoms": false,
