@@ -45,7 +45,7 @@
       "javaVersion": "25.0.2"
     },
     "config": {
-      "includeMavenPlugins": false,
+      "includeMavenPlugins": true,
       "allowValidationFailure": false,
       "allowPomValidationFailure": false,
       "allowMavenPluginValidationFailure": false,

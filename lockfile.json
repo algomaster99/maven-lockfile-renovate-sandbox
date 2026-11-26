@@ -16,7 +16,7 @@
   "mavenExtensions": [],
   "metaData": {
     "config": {
-      "includeMavenPlugins": false,
+      "includeMavenPlugins": true,
       "allowValidationFailure": false,
       "allowPomValidationFailure": false,
       "allowMavenPluginValidationFailure": false,

@@ -9,4 +9,4 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           commit-lockfile: false
-          include-maven-plugins: false
+          include-maven-plugins: true
