@@ -15,7 +15,7 @@
       "version": "1",
       "relativePath": "../pom.xml",
       "checksumAlgorithm": "SHA-256",
-      "checksum": "bacae91b74a628eb1b6c8ccc7d9ee690915fc825e66478e20bbf3603baf0f27b",
+      "checksum": "7db39611b47cda0d459457b663d90eaef51adc2c9dd44e9ad2a87889a57552d7",
       "parent": {
         "groupId": "org.sonatype.oss",
         "artifactId": "oss-parent",
@@ -29,11 +29,11 @@
         {
           "groupId": "org.junit",
           "artifactId": "junit-bom",
-          "version": "5.14.5",
-          "resolved": "https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.14.5/junit-bom-5.14.5.pom",
+          "version": "6.1.3",
+          "resolved": "https://repo.maven.apache.org/maven2/org/junit/junit-bom/6.1.3/junit-bom-6.1.3.pom",
           "repositoryId": "central",
           "checksumAlgorithm": "SHA-256",
-          "checksum": "9b23bf6b08a974ee294ffa6b47f9acc66c8676d1265e6c46039958894c2038c1"
+          "checksum": "a9000043610a3e90c852e779a6b1a8eb724a9f312cf5f7ddd57862b010c65dc8"
         }
       ]
     }
