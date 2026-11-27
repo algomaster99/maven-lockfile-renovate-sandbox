@@ -8,7 +8,7 @@
     "version": "1",
     "relativePath": "pom.xml",
     "checksumAlgorithm": "SHA-256",
-    "checksum": "94084906e69f6f384a0df7f34158edfdcb887f5ae5e9eebd132f51ba5b52deea",
+    "checksum": "2798bf8929bc3831e935ec3b214346b83dfb7159b495ccffd37088a496295593",
     "parent": {
       "groupId": "com.example",
       "artifactId": "sandbox",
@@ -20,6 +20,36 @@
   },
   "lockFileVersion": 1,
   "dependencies": [
+    {
+      "groupId": "commons-codec",
+      "artifactId": "commons-codec",
+      "version": "1.22.1",
+      "checksumAlgorithm": "SHA-256",
+      "checksum": "78a5d732fbd715e2d10bd7150d2f8030bae57267f8aacc5c88f642cb6c2e5d3f",
+      "scope": "compile",
+      "resolved": "https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.22.1/commons-codec-1.22.1.jar",
+      "repositoryId": "central",
+      "selectedVersion": "1.22.1",
+      "included": true,
+      "id": "commons-codec:commons-codec:1.22.1",
+      "children": [],
+      "boms": []
+    },
+    {
+      "groupId": "commons-io",
+      "artifactId": "commons-io",
+      "version": "2.21.0",
+      "checksumAlgorithm": "SHA-256",
+      "checksum": "7d643a2afea8b058b762aa6fb90e5b256f6c729739f8b3784c3370ddc609e88d",
+      "scope": "compile",
+      "resolved": "https://repo.maven.apache.org/maven2/commons-io/commons-io/2.21.0/commons-io-2.21.0.jar",
+      "repositoryId": "central",
+      "selectedVersion": "2.21.0",
+      "included": true,
+      "id": "commons-io:commons-io:2.21.0",
+      "children": [],
+      "boms": []
+    },
     {
       "groupId": "org.apache.commons",
       "artifactId": "commons-lang3",
