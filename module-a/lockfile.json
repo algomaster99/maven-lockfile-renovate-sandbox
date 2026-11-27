@@ -15,7 +15,7 @@
       "version": "1",
       "relativePath": "../pom.xml",
       "checksumAlgorithm": "SHA-256",
-      "checksum": "bdcfcb1981ed972135472fe8d84bc66b96fd59423a403c89d09e59bafb2cb85c",
+      "checksum": "470965525f1010c750c4b95ec665db498f08b619bb5235a6011378e377e22d91",
       "parent": {
         "groupId": "org.sonatype.oss",
         "artifactId": "oss-parent",
@@ -196,10 +196,10 @@
     {
       "groupId": "kr.motd.maven",
       "artifactId": "os-maven-plugin",
-      "version": "1.7.0",
-      "checksum": "943053501a429e53d1c4d62152eec125fa36620e0dc66b7390a895097cfdeace",
+      "version": "1.7.1",
+      "checksum": "f47aeef86821e52b2b18758978bd045f03d722292e32e747082122c6228952e0",
       "checksumAlgorithm": "SHA-256",
-      "resolved": "https://repo.maven.apache.org/maven2/kr/motd/maven/os-maven-plugin/1.7.0/os-maven-plugin-1.7.0.jar",
+      "resolved": "https://repo.maven.apache.org/maven2/kr/motd/maven/os-maven-plugin/1.7.1/os-maven-plugin-1.7.1.jar",
       "repositoryId": "central",
       "dependencies": [
         {
